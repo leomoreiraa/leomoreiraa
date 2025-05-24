@@ -15,4 +15,4 @@ Professor de Robótica e Programação (Atual - 1 ano): Ensino de lógica de pro
 Estágio em Desenvolvimento Frontend (3 meses): Desenvolvimento de interfaces utilizando Ionic e Angular.
 Conecte-se Comigo 🤝
 Vamos conversar! Você pode me encontrar nas seguintes plataformas:
-<p> <a href="https://www.linkedin.com/in/leomoreiraa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://leomoreiraa.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> </p>
+<p> <a href="https://www.linkedin.com/in/leomoreiraa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://leomoreiraa.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> </p> 
