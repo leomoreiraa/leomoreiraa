@@ -104,25 +104,11 @@ Atualmente estou focado em evoluir cada vez mais no ecossistema Java.
 
 ---
 
-# 📅 Calendário de Contribuições 3D
-
-> ⚠️ Para esta imagem aparecer, é necessário configurar a GitHub Action do projeto:
->
-> https://github.com/yoshi389111/github-profile-3d-contrib
-
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </div>
-
----
-
-# 🐍 Snake Animation
-
-> Também requer GitHub Action:
->
-> https://github.com/Platane/snk
 
 <div align="center">
 
