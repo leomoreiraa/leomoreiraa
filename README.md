@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img align="center" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400"/>
 
 </div>
 
