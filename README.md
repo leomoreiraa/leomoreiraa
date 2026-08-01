@@ -1,77 +1,64 @@
-# 👋 Olá, eu sou o Leonardo Moreira
-
 <div align="center">
 
-### Desenvolvedor Full Stack | Java • Spring Boot • React • Angular
+# 👋 Olá, eu sou Leonardo Moreira
 
-Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;React+%7C+Angular;Professor+de+Programa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo!" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leomoreiraa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://leomoreiraa.github.io/portfolio/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bem-vindo!&fontSize=42&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&random=false&width=650&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;React+%7C+Angular;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://komarev.com/ghpvc/?username=leomoreiraa&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+<div align="center">
 
-Sou desenvolvedor de software em busca de oportunidades como **Frontend**, **Backend** ou **Full Stack**.
+<img align="center" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-Atualmente atuo como **Professor de Robótica e Programação**, ensinando lógica de programação, desenvolvimento web e Python para análise de dados.
+</div>
 
-Tenho experiência profissional com:
+# 🚀 Sobre mim
 
-* 💻 Desenvolvimento Frontend
-* ⚙️ Desenvolvimento Backend
-* 📚 Ensino de programação
-* 🤖 Robótica Educacional
+💻 Desenvolvedor Full Stack apaixonado por tecnologia.
 
-Meu foco atual é me especializar cada vez mais em:
+Atualmente atuo como **Professor de Robótica e Programação**, ensinando:
 
-* Java
-* Spring Boot
-* APIs REST
-* Microsserviços
-* Arquitetura de Software
-* Cloud
+- Python
+- React
+- HTML
+- CSS
+- JavaScript
+- Desenvolvimento de Jogos
+- Robótica Educacional
+
+Tenho experiência profissional como **Desenvolvedor Front-end**, trabalhando com:
+
+- Angular
+- Ionic
+
+Atualmente estou focado em evoluir cada vez mais no ecossistema Java.
 
 ---
 
-# 🛠 Tecnologias
+# 🎯 Objetivos
 
-## Frontend
+- 📚 Aprimorar conhecimentos em Java e Spring Boot
+- ☁️ Aprender Cloud Computing
+- 🏗️ Arquitetura de Software
+- 🧩 Microsserviços
+- 🐳 Docker
+- 🚀 Conseguir uma oportunidade como Desenvolvedor Full Stack
 
-<p align="left">
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,nuxt,ionic"/>
+# 🛠️ Tecnologias
 
-</p>
+<div align="center">
 
-## Backend
+<img src="https://skillicons.dev/icons?i=java,spring,react,angular,typescript,javascript,html,css,sass,python,cs,cpp,mysql,postgres,git,github,docker,vscode,idea,figma"/>
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,cs,cpp"/>
-
-</p>
-
-## Banco de Dados
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-
-</p>
-
-## Ferramentas
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma"/>
-
-</p>
+</div>
 
 ---
 
@@ -79,29 +66,67 @@ Meu foco atual é me especializar cada vez mais em:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leomoreiraa&show_icons=true&theme=merko&rank_icon=github&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomoreiraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreiraa&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=leomoreiraa&theme=merko&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribuições
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leomoreiraa&theme=merko&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=leomoreiraa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leomoreiraa&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=leomoreiraa&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📅 Calendário de Contribuições 3D
+
+> ⚠️ Para esta imagem aparecer, é necessário configurar a GitHub Action do projeto:
+>
+> https://github.com/yoshi389111/github-profile-3d-contrib
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+> Também requer GitHub Action:
+>
+> https://github.com/Platane/snk
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/leomoreiraa/leomoreiraa/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -109,43 +134,70 @@ Meu foco atual é me especializar cada vez mais em:
 
 # 💼 Experiência
 
-### 👨‍🏫 Professor de Robótica e Programação
+## 👨‍🏫 Professor de Robótica e Programação
 
-* Ensino de lógica de programação
-* Python para análise de dados
-* React
-* HTML
-* CSS
-* JavaScript
-* Desenvolvimento de jogos
-* Robótica Educacional
+✔ Ensino de lógica de programação
 
-### 💻 Estagiário de Desenvolvimento Frontend
+✔ Desenvolvimento Web
 
-* Angular
-* Ionic
-* Desenvolvimento de interfaces
-* Consumo de APIs
+✔ Python para Análise de Dados
+
+✔ React
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+✔ Desenvolvimento de Jogos
+
+✔ Robótica Educacional
+
+---
+
+## 💻 Estagiário Front-end
+
+- Angular
+
+- Ionic
+
+- Desenvolvimento Mobile
+
+- Desenvolvimento Web
+
+- Consumo de APIs REST
 
 ---
 
 # 🌱 Atualmente estudando
 
-* Java
-* Spring Boot
-* Docker
-* Microsserviços
-* Testes Automatizados
-* AWS
+```java
+public class Leonardo {
+
+    String[] estudando = {
+        "Java",
+        "Spring Boot",
+        "Docker",
+        "AWS",
+        "Microsserviços",
+        "JUnit",
+        "RabbitMQ"
+    };
+
+}
+```
 
 ---
 
-# 🎯 Objetivos
+# 📌 Projetos em Destaque
 
-* Conseguir uma oportunidade como Desenvolvedor Full Stack
-* Aprimorar conhecimentos em Arquitetura de Software
-* Desenvolver projetos escaláveis
-* Contribuir com projetos Open Source
+| Projeto | Tecnologias |
+|----------|-------------|
+| 💻 Portfólio | React |
+| 📚 Sistema Escolar | Java |
+| 🛒 API REST | Spring Boot |
+| 📱 Aplicação Mobile | Ionic + Angular |
 
 ---
 
@@ -153,16 +205,40 @@ Meu foco atual é me especializar cada vez mais em:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/leomoreiraa/)
+<a href="https://www.linkedin.com/in/leomoreiraa/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/-Portfólio-orange?style=for-the-badge\&logo=google-chrome)](https://leomoreiraa.github.io/portfolio/)
+<a href="https://leomoreiraa.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfólio-E34F26?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+# 💡 Um pouco sobre mim
+
+```text
+💻 Desenvolvedor Full Stack
+
+☕ Apaixonado por Java
+
+📚 Professor de Programação
+
+🚀 Sempre estudando novas tecnologias
+
+🎯 Em busca de novos desafios
+```
+
+---
+
 <div align="center">
 
-⭐ Obrigado por visitar meu perfil!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
