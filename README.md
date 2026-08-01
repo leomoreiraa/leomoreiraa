@@ -1,18 +1,168 @@
-Olá, eu sou o Leo Moreira! 👋
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leomoreiraa&show_icons=true&theme=merko&rank_icon=github" alt="Estatísticas do GitHub de Leo Moreira"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreiraa&langs_count=8&theme=merko&layout=compact" alt="Linguagens Mais Usadas por Leo Moreira"/> </p>
-Sobre Mim 👨‍💻
-Sou um desenvolvedor buscando ativamente oportunidades nas áreas de Frontend, Backend ou Fullstack. Atualmente, atuo como Professor de Robótica e Programação, compartilhando conhecimentos em tecnologias como Python para análise de dados, e React, HTML, CSS e JavaScript para desenvolvimento web. Possuo experiência prévia como estagiário de desenvolvimento frontend, onde trabalhei com Ionic e Angular.
-Estou sempre em busca de aprendizado e aprimoramento, com foco especial em aprofundar meus conhecimentos em Java e suas tecnologias associadas. Tenho como objetivo aplicar minhas habilidades e minha paixão por tecnologia para construir soluções inovadoras e eficientes, contribuindo para projetos desafiadores.
-Habilidades Técnicas 🛠️
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
-Frontend:
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/> <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/> </p>
-Backend & Linguagens:
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </p>
-(Nota: A lista acima representa as principais tecnologias, mas estou sempre aberto a aprender e trabalhar com novas ferramentas! )
-Experiência 🧑‍🏫
-Professor de Robótica e Programação (Atual - 1 ano): Ensino de lógica de programação, desenvolvimento de jogos, análise de dados com Python, e criação de aplicações web (React, HTML, CSS, JS).
-Estágio em Desenvolvimento Frontend (3 meses): Desenvolvimento de interfaces utilizando Ionic e Angular.
-Conecte-se Comigo 🤝
-Vamos conversar! Você pode me encontrar nas seguintes plataformas:
-<p> <a href="https://www.linkedin.com/in/leomoreiraa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://leomoreiraa.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> </p> 
+# 👋 Olá, eu sou o Leonardo Moreira
+
+<div align="center">
+
+### Desenvolvedor Full Stack | Java • Spring Boot • React • Angular
+
+Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leomoreiraa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://leomoreiraa.github.io/portfolio/)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&random=false&width=650&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;React+%7C+Angular;Sempre+aprendendo+novas+tecnologias" />
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor de software em busca de oportunidades como **Frontend**, **Backend** ou **Full Stack**.
+
+Atualmente atuo como **Professor de Robótica e Programação**, ensinando lógica de programação, desenvolvimento web e Python para análise de dados.
+
+Tenho experiência profissional com:
+
+* 💻 Desenvolvimento Frontend
+* ⚙️ Desenvolvimento Backend
+* 📚 Ensino de programação
+* 🤖 Robótica Educacional
+
+Meu foco atual é me especializar cada vez mais em:
+
+* Java
+* Spring Boot
+* APIs REST
+* Microsserviços
+* Arquitetura de Software
+* Cloud
+
+---
+
+# 🛠 Tecnologias
+
+## Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,nuxt,ionic"/>
+
+</p>
+
+## Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,cs,cpp"/>
+
+</p>
+
+## Banco de Dados
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+
+</p>
+
+## Ferramentas
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma"/>
+
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leomoreiraa&show_icons=true&theme=merko&rank_icon=github&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreiraa&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=leomoreiraa&theme=merko&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leomoreiraa&theme=merko&hide_border=true"/>
+
+</div>
+
+---
+
+# 💼 Experiência
+
+### 👨‍🏫 Professor de Robótica e Programação
+
+* Ensino de lógica de programação
+* Python para análise de dados
+* React
+* HTML
+* CSS
+* JavaScript
+* Desenvolvimento de jogos
+* Robótica Educacional
+
+### 💻 Estagiário de Desenvolvimento Frontend
+
+* Angular
+* Ionic
+* Desenvolvimento de interfaces
+* Consumo de APIs
+
+---
+
+# 🌱 Atualmente estudando
+
+* Java
+* Spring Boot
+* Docker
+* Microsserviços
+* Testes Automatizados
+* AWS
+
+---
+
+# 🎯 Objetivos
+
+* Conseguir uma oportunidade como Desenvolvedor Full Stack
+* Aprimorar conhecimentos em Arquitetura de Software
+* Desenvolver projetos escaláveis
+* Contribuir com projetos Open Source
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/leomoreiraa/)
+
+[![Portfolio](https://img.shields.io/badge/-Portfólio-orange?style=for-the-badge\&logo=google-chrome)](https://leomoreiraa.github.io/portfolio/)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
