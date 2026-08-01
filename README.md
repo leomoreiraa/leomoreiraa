@@ -62,7 +62,6 @@ Atualmente estou focado em evoluir cada vez mais no ecossistema Java.
 
 ---
 
-# 📊 Estatísticas
 
 <div align="center">
 
@@ -74,7 +73,6 @@ Atualmente estou focado em evoluir cada vez mais no ecossistema Java.
 
 ---
 
-# 🔥 Sequência de Contribuições
 
 <div align="center">
 
@@ -84,7 +82,6 @@ Atualmente estou focado em evoluir cada vez mais no ecossistema Java.
 
 ---
 
-# 📈 Activity Graph
 
 <div align="center">
 
@@ -94,11 +91,10 @@ Atualmente estou focado em evoluir cada vez mais no ecossistema Java.
 
 ---
 
-# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=leomoreiraa&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=leomoreiraa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
