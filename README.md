@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Leonardo Moreira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;React+%7C+Angular;Professor+de+Programa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;React+%7C+Angular;Professor+de+Programa%C3%A7%C3%A3o;GameDev!" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bem-vindo!&fontSize=42&fontColor=ffffff"/>
 
