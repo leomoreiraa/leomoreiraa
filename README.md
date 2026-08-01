@@ -91,10 +91,9 @@ Atualmente estou focado em evoluir cada vez mais no ecossistema Java.
 
 ---
 
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=leomoreiraa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy-git-master.projeckts.vercel.app/?username=leomoreiraa&theme=tokyonight&no-frame=true&column=7"/>
 
 </div>
 
