@@ -2,7 +2,6 @@
 
 # ████████████████████████████████████
 # PRESS START
-### `Leonardo Moreira`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,100:00FF88&text=PRESS%20START&fontColor=FFFFFF&fontSize=60&animation=fadeIn&desc=Leonardo%20Moreira&descAlignY=70"/>
 
