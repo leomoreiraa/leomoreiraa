@@ -3,7 +3,7 @@
 # ████████████████████████████████████
 # PRESS START
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,100:00FF88&text=PRESS%20START&fontColor=FFFFFF&fontSize=60&animation=fadeIn&desc=Leonardo%20Moreira&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,100:00FF88&text=PRESS%20START&fontColor=FFFFFF&fontSize=60&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=34&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;GAME+DEVELOPER;PHYSICIST;PROGRAMMING+TEACHER;LEARNING+CHINESE;WELCOME+PLAYER+ONE"/>
 
