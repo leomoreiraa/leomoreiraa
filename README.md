@@ -1,7 +1,7 @@
 <div align="center">
 
 # ████████████████████████████████████
-# 🎮 PRESS START
+# PRESS START
 ### `Leonardo Moreira`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,100:00FF88&text=PRESS%20START&fontColor=FFFFFF&fontSize=60&animation=fadeIn&desc=Leonardo%20Moreira&descAlignY=70"/>
@@ -14,7 +14,7 @@
 
 ---
 
-# 👾 PLAYER PROFILE
+# PLAYER PROFILE
 
 ```text
 ╔══════════════════════════════════════════════════════╗
@@ -32,7 +32,7 @@
 
 ---
 
-# ❤️ CHARACTER STATUS
+# CHARACTER STATUS
 
 | Status | Level |
 |--------|-------|
@@ -45,7 +45,7 @@
 
 ---
 
-# 🌲 CURRENT QUEST
+# CURRENT QUEST
 
 ```text
 ╔══════════════════════════════════════╗
@@ -71,7 +71,7 @@
 
 ---
 
-# 📊 PLAYER STATS
+# PLAYER STATS
 
 <div align="center">
 
@@ -107,7 +107,7 @@
 
 ---
 
-# 🐍 CONTRIBUTIONS
+# CONTRIBUTIONS
 
 <div align="center">
 
@@ -117,7 +117,7 @@
 
 ---
 
-# 💻 TERMINAL
+# TERMINAL
 
 ```bash
 $ whoami
@@ -165,7 +165,7 @@ READY...
 
 ---
 
-# 🧰 TOOLBOX
+# TOOLBOX
 
 <div align="center">
 
@@ -178,7 +178,7 @@ READY...
 
 ---
 
-# 📡 COMMUNICATION TERMINAL
+# COMMUNICATION TERMINAL
 
 <div align="center">
 
